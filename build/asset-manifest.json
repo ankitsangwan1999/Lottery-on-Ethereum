@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ankitsangwan1999/Lottery-on-Ethereum/static/css/main.d1b05096.chunk.css",
+    "main.js": "/ankitsangwan1999/Lottery-on-Ethereum/static/js/main.9448f245.chunk.js",
+    "main.js.map": "/ankitsangwan1999/Lottery-on-Ethereum/static/js/main.9448f245.chunk.js.map",
+    "runtime-main.js": "/ankitsangwan1999/Lottery-on-Ethereum/static/js/runtime-main.cb47a790.js",
+    "runtime-main.js.map": "/ankitsangwan1999/Lottery-on-Ethereum/static/js/runtime-main.cb47a790.js.map",
+    "static/js/2.1fbce0fc.chunk.js": "/ankitsangwan1999/Lottery-on-Ethereum/static/js/2.1fbce0fc.chunk.js",
+    "static/js/2.1fbce0fc.chunk.js.map": "/ankitsangwan1999/Lottery-on-Ethereum/static/js/2.1fbce0fc.chunk.js.map",
+    "index.html": "/ankitsangwan1999/Lottery-on-Ethereum/index.html",
+    "precache-manifest.c69f939a38fdcca101af45e5bd3834b8.js": "/ankitsangwan1999/Lottery-on-Ethereum/precache-manifest.c69f939a38fdcca101af45e5bd3834b8.js",
+    "service-worker.js": "/ankitsangwan1999/Lottery-on-Ethereum/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/ankitsangwan1999/Lottery-on-Ethereum/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.1fbce0fc.chunk.js.LICENSE.txt": "/ankitsangwan1999/Lottery-on-Ethereum/static/js/2.1fbce0fc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb47a790.js",
+    "static/js/2.1fbce0fc.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.9448f245.chunk.js"
+  ]
+}
