@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Lottery-on-Ethereum/precache-manifest.e28da7ca71e0192c47ebc3b4875035da.js"
+  "/Lottery-on-Ethereum/precache-manifest.7d5e3a352f68d51438ea1d56e6ae3e70.js"
 );
 
 self.addEventListener('message', (event) => {
