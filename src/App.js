@@ -170,7 +170,7 @@ class App extends React.Component{
            </Divider>
            <div style={{textAlign:'center'}}>
                <p><b>{this.state.lastWinner ? this.state.lastWinner : 'No Winners Yet Declared...'}</b></p>
-               <img style={{maxWidth: '250px', maxheight: '250px' }} src='/images/trophy1.jpg' />
+               <img style={{maxWidth: '250px', maxheight: '250px' }} src='/Lottery-on-Ethereum/images/trophy1.jpg' />
 
            </div>
        </Container>
