@@ -5,7 +5,7 @@ import App from './App';
 import * as serviceWorker from './serviceWorker';
 
 
-const appElement = <App/>;
+const appElement = <App name="Shaka Laka"/>;
 ReactDOM.render(appElement, document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change

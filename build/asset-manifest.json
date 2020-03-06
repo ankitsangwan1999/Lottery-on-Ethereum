@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/ankitsangwan1999/Lottery-on-Ethereum/static/css/main.d1b05096.chunk.css",
-    "main.js": "/ankitsangwan1999/Lottery-on-Ethereum/static/js/main.9448f245.chunk.js",
-    "main.js.map": "/ankitsangwan1999/Lottery-on-Ethereum/static/js/main.9448f245.chunk.js.map",
-    "runtime-main.js": "/ankitsangwan1999/Lottery-on-Ethereum/static/js/runtime-main.cb47a790.js",
-    "runtime-main.js.map": "/ankitsangwan1999/Lottery-on-Ethereum/static/js/runtime-main.cb47a790.js.map",
-    "static/js/2.1fbce0fc.chunk.js": "/ankitsangwan1999/Lottery-on-Ethereum/static/js/2.1fbce0fc.chunk.js",
-    "static/js/2.1fbce0fc.chunk.js.map": "/ankitsangwan1999/Lottery-on-Ethereum/static/js/2.1fbce0fc.chunk.js.map",
-    "index.html": "/ankitsangwan1999/Lottery-on-Ethereum/index.html",
-    "precache-manifest.c69f939a38fdcca101af45e5bd3834b8.js": "/ankitsangwan1999/Lottery-on-Ethereum/precache-manifest.c69f939a38fdcca101af45e5bd3834b8.js",
-    "service-worker.js": "/ankitsangwan1999/Lottery-on-Ethereum/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/ankitsangwan1999/Lottery-on-Ethereum/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.1fbce0fc.chunk.js.LICENSE.txt": "/ankitsangwan1999/Lottery-on-Ethereum/static/js/2.1fbce0fc.chunk.js.LICENSE.txt"
+    "main.css": "/Lottery-on-Ethereum/static/css/main.d1b05096.chunk.css",
+    "main.js": "/Lottery-on-Ethereum/static/js/main.3be85fe0.chunk.js",
+    "main.js.map": "/Lottery-on-Ethereum/static/js/main.3be85fe0.chunk.js.map",
+    "runtime-main.js": "/Lottery-on-Ethereum/static/js/runtime-main.a908ee14.js",
+    "runtime-main.js.map": "/Lottery-on-Ethereum/static/js/runtime-main.a908ee14.js.map",
+    "static/js/2.25173d8f.chunk.js": "/Lottery-on-Ethereum/static/js/2.25173d8f.chunk.js",
+    "static/js/2.25173d8f.chunk.js.map": "/Lottery-on-Ethereum/static/js/2.25173d8f.chunk.js.map",
+    "index.html": "/Lottery-on-Ethereum/index.html",
+    "precache-manifest.e28da7ca71e0192c47ebc3b4875035da.js": "/Lottery-on-Ethereum/precache-manifest.e28da7ca71e0192c47ebc3b4875035da.js",
+    "service-worker.js": "/Lottery-on-Ethereum/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/Lottery-on-Ethereum/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.25173d8f.chunk.js.LICENSE.txt": "/Lottery-on-Ethereum/static/js/2.25173d8f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.cb47a790.js",
-    "static/js/2.1fbce0fc.chunk.js",
+    "static/js/runtime-main.a908ee14.js",
+    "static/js/2.25173d8f.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.9448f245.chunk.js"
+    "static/js/main.3be85fe0.chunk.js"
   ]
 }
